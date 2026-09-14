@@ -1,6 +1,6 @@
 # Personal Finance Dashboard (Excel)
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 Interactive Excel dashboard tracking personal income, expenses, budgeting, investments, and financial goals.
 
